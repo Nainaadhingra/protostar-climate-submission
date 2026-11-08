@@ -1,0 +1,6 @@
+# Tested with Python 3.14.6. check_submission.py needs the first three.
+pandas==3.1.1
+pyarrow==26.0.1
+huggingface_hub==2.4.0
+numpy==2.5.4
+scikit-learn==1.9.1
