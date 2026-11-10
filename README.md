@@ -45,7 +45,10 @@ flowchart LR
 | Name | Hugging Face username | University, Program |
 |---|---|---|
 | Naina Dhingra | [@ndhingraa](https://huggingface.co/ndhingraa) | Carnegie Mellon University |
-| _Other members: to be added_ | | |
+| Mitra Barve | [@mitrab](https://huggingface.co/mitrab) | Carnegie Mellon University |
+| Janeshvar Sivakumar | [@jaane123](https://huggingface.co/jaane123) | Carnegie Mellon University |
+| Anav Singh | [@anavsingh99](https://huggingface.co/anavsingh99) | Carnegie Mellon University |
+| Tanishqa Porwal | [@tanishqa126](https://huggingface.co/tanishqa126) | Carnegie Mellon University |
 
 ## Method
 
